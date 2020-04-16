@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-# Header
+
 {% include 01-name.md %}
 
-changed
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
